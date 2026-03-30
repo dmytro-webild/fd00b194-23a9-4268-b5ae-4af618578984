@@ -55,15 +55,15 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-dxv11c7n.jpg",          imageAlt: "Plumbing Maintenance"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-dxv11c7n.jpg?_wi=1",          imageAlt: "Plumbing Maintenance"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg",          imageAlt: "Electrical Panel Maintenance"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg?_wi=1",          imageAlt: "Electrical Panel Maintenance"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-n16pzxk2.jpg",          imageAlt: "Plumbing Sink Installation"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-n16pzxk2.jpg?_wi=1",          imageAlt: "Plumbing Sink Installation"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755538-kau9bufo.jpg",          imageAlt: "Wall-hung Toilet Installation"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755538-kau9bufo.jpg?_wi=1",          imageAlt: "Wall-hung Toilet Installation"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg",          imageAlt: "Water Pump Services"},
+          imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg?_wi=1",          imageAlt: "Water Pump Services"},
       ]}
       mediaAnimation="blur-reveal"
     />
@@ -77,7 +77,7 @@ export default function LandingPage() {
       description="We are committed to providing premium electrical and plumbing maintenance for residential and commercial properties. Our team offers 24/7 support with gold-standard workmanship."
       subdescription="With 5-star reviews and expert technicians, we ensure your facilities operate smoothly."
       icon={Award}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
@@ -92,16 +92,16 @@ export default function LandingPage() {
           title: "Plumbing & Drains",          description: "Reliable plumbing repair and professional drain cleaning to keep your systems flowing.",          icon: Droplets,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-dxv11c7n.jpg"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-dxv11c7n.jpg?_wi=2"},
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-n16pzxk2.jpg"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-n16pzxk2.jpg?_wi=2"},
           ]
         },
         {
           title: "Electrical Systems",          description: "Expert electrical maintenance, troubleshooting, and safety inspections for all property types.",          icon: Zap,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755537-0aitgmbo.jpg?_wi=3"},
             {
               imageSrc: "http://img.b2bpic.net/free-photo/assembly-electrical-panel-electrician-job-robot-with-wires-circuit-breakers_169016-2106.jpg"},
           ]
@@ -110,9 +110,9 @@ export default function LandingPage() {
           title: "Water Pumps & Heaters",          description: "Precision installation and repair for water heaters and high-performance pumping systems.",          icon: Droplet,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755538-kau9bufo.jpg"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgPWZ0BZZJN7WGA5KukUvigqPy/uploaded-1774910755538-kau9bufo.jpg?_wi=2"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg?_wi=2"},
           ]
         },
       ]}
